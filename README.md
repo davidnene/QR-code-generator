@@ -1,5 +1,5 @@
 ## QR Code Qenerator CLI App
-This is a simple CLI program for generating QR Code on anything!
+This is a simple-to-use CLI program for generating QR Code on anything!
 
 ### Technologies used
 - Python
@@ -8,13 +8,14 @@ This is a simple CLI program for generating QR Code on anything!
 
 ### How to use
 Ensure you have python installed in your pc
+
 Install the following modules
 - `pip install pyqrcode` - generates the QR code
 - `pip install pypng` - saves image to png
 - `pip install pillow` - able to read and display image
 
 Clone this repositoy
-* Open your terminal or git bash then `git clone `
+* Open your terminal or git bash then `git clone https://github.com/davidnene/QR-code-generator.git`
 * Navigate into the QR-code-generator directory `cd QR-code-generator`
 
 Run `./main.py`
